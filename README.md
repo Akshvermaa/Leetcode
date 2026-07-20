@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Akshvermaa/Leetcode/tree/master/0912-sort-an-array) |
+| [1260-shift-2d-grid](https://github.com/Akshvermaa/Leetcode/tree/master/1260-shift-2d-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -49,4 +50,12 @@
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Akshvermaa/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Akshvermaa/Leetcode/tree/master/1260-shift-2d-grid) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Akshvermaa/Leetcode/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
