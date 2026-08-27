@@ -31,10 +31,12 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Akshvermaa/Leetcode/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/Akshvermaa/Leetcode/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Akshvermaa/Leetcode/tree/master/0148-sort-list) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Akshvermaa/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/Akshvermaa/Leetcode/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Akshvermaa/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -51,6 +53,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Akshvermaa/Leetcode/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/Akshvermaa/Leetcode/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -247,6 +250,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Akshvermaa/Leetcode/tree/master/0148-sort-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Akshvermaa/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Prefix Sum
 |  |
@@ -272,4 +276,8 @@
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Akshvermaa/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Linked List
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Akshvermaa/Leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
