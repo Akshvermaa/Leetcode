@@ -287,6 +287,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Akshvermaa/Leetcode/tree/master/0148-sort-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Akshvermaa/Leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Union-Find
 |  |
 | ------- |
