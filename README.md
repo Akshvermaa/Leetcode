@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Akshvermaa/Leetcode/tree/master/0046-permutations) |
 | [0486-predict-the-winner](https://github.com/Akshvermaa/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Akshvermaa/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Akshvermaa/Leetcode/tree/master/0877-stone-game) |
@@ -253,6 +254,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Akshvermaa/Leetcode/tree/master/0046-permutations) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Akshvermaa/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
