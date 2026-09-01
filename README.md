@@ -79,6 +79,7 @@
 ## String
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Akshvermaa/Leetcode/tree/master/0214-shortest-palindrome) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Akshvermaa/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/Akshvermaa/Leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Akshvermaa/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -297,4 +298,28 @@
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Akshvermaa/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Akshvermaa/Leetcode/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Akshvermaa/Leetcode/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Akshvermaa/Leetcode/tree/master/0214-shortest-palindrome) |
+## Manacher
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Akshvermaa/Leetcode/tree/master/0214-shortest-palindrome) |
+## Z Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Akshvermaa/Leetcode/tree/master/0214-shortest-palindrome) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Akshvermaa/Leetcode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
