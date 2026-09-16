@@ -1,17 +1,20 @@
 class Solution {
+    Integer[][][] memo;
+    int n;
     public int numberOfSets(int n, int k) {
-        long MOD=1000000007L;
-        long[][]dp=new long[k+1][n];
-        for(int i=0;i<n;i++){
-            dp[0][i]=1;
-        }
-        for (int s = 1; s <= k; s++) {
-            long open = 0;
-            for (int i = 1; i < n; i++) {
-                open = (open + dp[s - 1][i - 1]) % MOD;
-                dp[s][i] = (dp[s][i - 1] + open) % MOD;
-            }
-        }
-        return (int) dp[k][n - 1];
+        this.n = n;
+        this.memo = new Integer[n+1][k+1][2];
+        return dp(0, k, 1);
+    }
+    int dp(int i, int k, int isStart) {
+        if (memo[i][k][isStart] != null) return memo[i][k][isStart];
+        if (k == 0) return 1;
+        if (i == n) return 0;
+        int ans = dp(i+1, k, isStart);
+        if (isStart == 1)
+            ans += dp(i+1, k, 0);
+        else
+            ans += dp(i, k-1, 1);
+        return memo[i][k][isStart] = ans % 1_000_000_007;
     }
 }
