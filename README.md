@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Akshvermaa/Leetcode/tree/master/0001-two-sum) |
 | [0046-permutations](https://github.com/Akshvermaa/Leetcode/tree/master/0046-permutations) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Akshvermaa/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Akshvermaa/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -338,6 +339,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Akshvermaa/Leetcode/tree/master/0001-two-sum) |
 | [1096-brace-expansion-ii](https://github.com/Akshvermaa/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Akshvermaa/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Akshvermaa/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
